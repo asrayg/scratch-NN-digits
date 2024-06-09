@@ -1,8 +1,4 @@
-Sure, let's delve deeper into the mathematical aspects of the digit recognizer, including the activation functions, the softmax function, and the gradient descent optimization process.
-
----
-
-# Digit Recognizer
+# From Scratch Neural Network Digit Recognizer
 
 This project is a simple digit recognition system implemented using a neural network. The neural network is trained on the MNIST dataset, which consists of handwritten digit images and their corresponding labels.
 
